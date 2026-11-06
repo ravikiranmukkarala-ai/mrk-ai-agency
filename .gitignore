@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+website/node_modules/
+.venv/
+
+# Production build outputs
+dist/
+website/dist/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Large binary recordings
+captures/recordings/*.webm
+
+# IDE / System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

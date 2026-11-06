@@ -1,0 +1,270 @@
+{
+  "target_url": "https://ali-and-ai.com/",
+  "title": "Ali & AI — AI Automation Agency",
+  "sections_detected": 15,
+  "css_animated_elements_count": 5,
+  "css_transition_elements_count": 14,
+  "keyframes_defined_count": 3,
+  "web_animations_count": 10,
+  "detected_libraries": {
+    "gsap": {
+      "detected": false,
+      "evidence": null,
+      "scrollTrigger": false
+    },
+    "framerMotion": {
+      "detected": false,
+      "evidence": null
+    },
+    "lottie": {
+      "detected": false,
+      "evidence": null
+    },
+    "threeJs": {
+      "detected": false,
+      "evidence": null
+    },
+    "animeJs": {
+      "detected": false,
+      "evidence": null
+    },
+    "lenis": {
+      "detected": false,
+      "evidence": null
+    },
+    "locomotiveScroll": {
+      "detected": false,
+      "evidence": null
+    },
+    "aos": {
+      "detected": false,
+      "evidence": null
+    }
+  },
+  "visual_engines": {
+    "canvasCount": 1,
+    "webglCanvases": 0,
+    "svgCount": 0,
+    "svgAnimatedCount": 0,
+    "videoCount": 0,
+    "lottiePlayers": 0
+  },
+  "button_interactions_count": 6,
+  "card_interactions_count": 6,
+  "contact_form_detected": true,
+  "frame_analysis": {
+    "video_available": true,
+    "frames_extracted": 24,
+    "motion_metrics": [
+      {
+        "from_time_sec": 0.0,
+        "to_time_sec": 0.5,
+        "changed_pixels": 0,
+        "change_percentage": 0.0,
+        "mean_intensity_diff": 0.0,
+        "movement_detected": false
+      },
+      {
+        "from_time_sec": 0.5,
+        "to_time_sec": 1.0,
+        "changed_pixels": 1292121,
+        "change_percentage": 99.7,
+        "mean_intensity_diff": 227.23,
+        "movement_detected": true
+      },
+      {
+        "from_time_sec": 1.0,
+        "to_time_sec": 1.5,
+        "changed_pixels": 4318,
+        "change_percentage": 0.33,
+        "mean_intensity_diff": 0.28,
+        "movement_detected": false
+      },
+      {
+        "from_time_sec": 1.5,
+        "to_time_sec": 2.0,
+        "changed_pixels": 4521,
+        "change_percentage": 0.35,
+        "mean_intensity_diff": 0.27,
+        "movement_detected": false
+      },
+      {
+        "from_time_sec": 2.0,
+        "to_time_sec": 2.5,
+        "changed_pixels": 4437,
+        "change_percentage": 0.34,
+        "mean_intensity_diff": 0.25,
+        "movement_detected": false
+      },
+      {
+        "from_time_sec": 2.5,
+        "to_time_sec": 3.0,
+        "changed_pixels": 4564,
+        "change_percentage": 0.35,
+        "mean_intensity_diff": 0.26,
+        "movement_detected": false
+      },
+      {
+        "from_time_sec": 3.0,
+        "to_time_sec": 3.5,
+        "changed_pixels": 4406,
+        "change_percentage": 0.34,
+        "mean_intensity_diff": 0.26,
+        "movement_detected": false
+      },
+      {
+        "from_time_sec": 3.5,
+        "to_time_sec": 4.0,
+        "changed_pixels": 1168363,
+        "change_percentage": 90.15,
+        "mean_intensity_diff": 95.29,
+        "movement_detected": true
+      },
+      {
+        "from_time_sec": 4.0,
+        "to_time_sec": 4.5,
+        "changed_pixels": 0,
+        "change_percentage": 0.0,
+        "mean_intensity_diff": 0.01,
+        "movement_detected": false
+      },
+      {
+        "from_time_sec": 4.5,
+        "to_time_sec": 5.0,
+        "changed_pixels": 1168382,
+        "change_percentage": 90.15,
+        "mean_intensity_diff": 95.29,
+        "movement_detected": true
+      },
+      {
+        "from_time_sec": 5.0,
+        "to_time_sec": 5.5,
+        "changed_pixels": 6391,
+        "change_percentage": 0.49,
+        "mean_intensity_diff": 0.4,
+        "movement_detected": false
+      },
+      {
+        "from_time_sec": 5.5,
+        "to_time_sec": 6.0,
+        "changed_pixels": 85529,
+        "change_percentage": 6.6,
+        "mean_intensity_diff": 5.7,
+        "movement_detected": true
+      },
+      {
+        "from_time_sec": 6.0,
+        "to_time_sec": 6.5,
+        "changed_pixels": 184843,
+        "change_percentage": 14.26,
+        "mean_intensity_diff": 17.65,
+        "movement_detected": true
+      },
+      {
+        "from_time_sec": 6.5,
+        "to_time_sec": 7.0,
+        "changed_pixels": 196351,
+        "change_percentage": 15.15,
+        "mean_intensity_diff": 19.33,
+        "movement_detected": true
+      },
+      {
+        "from_time_sec": 7.0,
+        "to_time_sec": 7.5,
+        "changed_pixels": 126875,
+        "change_percentage": 9.79,
+        "mean_intensity_diff": 8.7,
+        "movement_detected": true
+      },
+      {
+        "from_time_sec": 7.5,
+        "to_time_sec": 8.0,
+        "changed_pixels": 0,
+        "change_percentage": 0.0,
+        "mean_intensity_diff": 0.06,
+        "movement_detected": false
+      },
+      {
+        "from_time_sec": 8.0,
+        "to_time_sec": 8.5,
+        "changed_pixels": 119371,
+        "change_percentage": 9.21,
+        "mean_intensity_diff": 8.17,
+        "movement_detected": true
+      },
+      {
+        "from_time_sec": 8.5,
+        "to_time_sec": 9.0,
+        "changed_pixels": 107792,
+        "change_percentage": 8.32,
+        "mean_intensity_diff": 9.42,
+        "movement_detected": true
+      },
+      {
+        "from_time_sec": 9.0,
+        "to_time_sec": 9.5,
+        "changed_pixels": 109566,
+        "change_percentage": 8.45,
+        "mean_intensity_diff": 9.04,
+        "movement_detected": true
+      },
+      {
+        "from_time_sec": 9.5,
+        "to_time_sec": 10.0,
+        "changed_pixels": 263671,
+        "change_percentage": 20.34,
+        "mean_intensity_diff": 21.3,
+        "movement_detected": true
+      },
+      {
+        "from_time_sec": 10.0,
+        "to_time_sec": 10.5,
+        "changed_pixels": 0,
+        "change_percentage": 0.0,
+        "mean_intensity_diff": 0.07,
+        "movement_detected": false
+      },
+      {
+        "from_time_sec": 10.5,
+        "to_time_sec": 11.0,
+        "changed_pixels": 271551,
+        "change_percentage": 20.95,
+        "mean_intensity_diff": 22.82,
+        "movement_detected": true
+      },
+      {
+        "from_time_sec": 11.0,
+        "to_time_sec": 11.5,
+        "changed_pixels": 115292,
+        "change_percentage": 8.9,
+        "mean_intensity_diff": 13.57,
+        "movement_detected": true
+      }
+    ],
+    "contact_sheet": "captures\\recordings\\motion_contact_sheet.png",
+    "diff_highlights": [
+      {
+        "peak_rank": 1,
+        "from_sec": 0.5,
+        "to_sec": 1.0,
+        "change_percentage": 99.7,
+        "diff_image": "captures\\recordings\\motion_peak_1_diff.png"
+      },
+      {
+        "peak_rank": 2,
+        "from_sec": 3.5,
+        "to_sec": 4.0,
+        "change_percentage": 90.15,
+        "diff_image": "captures\\recordings\\motion_peak_2_diff.png"
+      },
+      {
+        "peak_rank": 3,
+        "from_sec": 4.5,
+        "to_sec": 5.0,
+        "change_percentage": 90.15,
+        "diff_image": "captures\\recordings\\motion_peak_3_diff.png"
+      }
+    ],
+    "video_path": "captures\\recordings\\page@1f1bba6f1f9cbbd8c244d64e3b557387.webm"
+  }
+}

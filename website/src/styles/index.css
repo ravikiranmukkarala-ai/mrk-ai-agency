@@ -1,0 +1,104 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --mrk-bg: #0A0D12;
+  --mrk-surface-1: #111720;
+  --mrk-surface-2: #141B25;
+  --mrk-surface-3: #1D2533;
+  --mrk-border: rgba(200, 215, 235, 0.10);
+  --mrk-border-light: rgba(200, 215, 235, 0.18);
+  --mrk-border-cyan: rgba(0, 242, 254, 0.40);
+  --mrk-cyan: #00F2FE;
+  --mrk-blue: #4FACFE;
+  --mrk-indigo: #6366F1;
+  --mrk-cyan-glow: rgba(0, 242, 254, 0.35);
+
+  --ease-spring: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #0A0D12;
+}
+::-webkit-scrollbar-thumb {
+  background: #1D2533;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #00F2FE;
+}
+
+/* Metallic Heading Gradient */
+.metal-text {
+  background: linear-gradient(135deg, #FFFFFF 0%, #C7D2E2 40%, #FFFFFF 60%, #8797B0 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Cyan Shimmer Accent */
+.cyan-gradient-text {
+  background: linear-gradient(135deg, #00F2FE 0%, #4FACFE 50%, #6366F1 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Subtle Glass Surface */
+.glass-surface {
+  background: rgba(20, 27, 37, 0.75);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border: 1px solid var(--mrk-border);
+}
+
+/* Scroll reveal helper transitions */
+.reveal-init {
+  opacity: 0;
+  transform: translateY(24px);
+  transition: opacity 0.65s var(--ease-spring), transform 0.65s var(--ease-spring);
+  will-change: opacity, transform;
+}
+
+.reveal-active {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Infinite Ticker Keyframes */
+@keyframes ticker {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.animate-ticker {
+  animation: ticker 30s linear infinite;
+}
+
+.animate-ticker:hover {
+  animation-play-state: paused;
+}
+
+/* Accessibility: Reduced Motion */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+
+  .reveal-init {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+
+  .animate-ticker {
+    animation: none !important;
+  }
+}

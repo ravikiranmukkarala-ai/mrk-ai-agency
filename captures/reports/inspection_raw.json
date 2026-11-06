@@ -1,0 +1,1378 @@
+{
+  "target_url": "https://ali-and-ai.com/",
+  "timestamp": "2026-11-06 18:18:30",
+  "metadata": {
+    "title": "Ali & AI — AI Automation Agency",
+    "http_status": 200,
+    "url": "https://ali-and-ai.com/"
+  },
+  "sections": [
+    {
+      "selector": "canvas#trail",
+      "id": "trail",
+      "heading": "",
+      "top": 0,
+      "height": 900,
+      "width": 1440,
+      "screenshot": "section_1_trail.png"
+    },
+    {
+      "selector": "header.hero",
+      "id": null,
+      "heading": "Your business, automated by AI.",
+      "top": 71,
+      "height": 707,
+      "width": 1440,
+      "screenshot": "section_2_block_2.png"
+    },
+    {
+      "selector": "div.wrap.hero-in",
+      "id": null,
+      "heading": "Your business, automated by AI.",
+      "top": 167,
+      "height": 399,
+      "width": 1120,
+      "screenshot": "section_3_block_3.png"
+    },
+    {
+      "selector": "section#cost.cost-sec",
+      "id": "cost",
+      "heading": "Every missed message is a missed client.",
+      "top": 778,
+      "height": 955,
+      "width": 1440,
+      "screenshot": "section_4_cost.png"
+    },
+    {
+      "selector": "section#services",
+      "id": "services",
+      "heading": "AI systems built around your workflow.",
+      "top": 1733,
+      "height": 1037,
+      "width": 1440,
+      "screenshot": "section_5_services.png"
+    },
+    {
+      "selector": "section#process",
+      "id": "process",
+      "heading": "From brief to live system, fast.",
+      "top": 2770,
+      "height": 578,
+      "width": 1440,
+      "screenshot": "section_6_process.png"
+    },
+    {
+      "selector": "section#work",
+      "id": "work",
+      "heading": "An electrical contractor, drowning in admin.",
+      "top": 3348,
+      "height": 1824,
+      "width": 1440,
+      "screenshot": "section_7_work.png"
+    },
+    {
+      "selector": "section#lab",
+      "id": "lab",
+      "heading": "We measure AI before we trust it.",
+      "top": 5172,
+      "height": 782,
+      "width": 1440,
+      "screenshot": "section_8_lab.png"
+    },
+    {
+      "selector": "section#about",
+      "id": "about",
+      "heading": "Hi, I'm Alina.",
+      "top": 5954,
+      "height": 1083,
+      "width": 1440,
+      "screenshot": "section_9_about.png"
+    },
+    {
+      "selector": "div#book.book",
+      "id": "book",
+      "heading": "AI from Zero: A Practical Guide to Using AI",
+      "top": 6597,
+      "height": 348,
+      "width": 1072,
+      "screenshot": "section_10_book.png"
+    },
+    {
+      "selector": "section#demo.demo-sec",
+      "id": "demo",
+      "heading": "Talk to our AI agent right now.",
+      "top": 7037,
+      "height": 911,
+      "width": 1440,
+      "screenshot": "section_11_demo.png"
+    },
+    {
+      "selector": "div#chatBody.chat-body",
+      "id": "chatBody",
+      "heading": "",
+      "top": 7431,
+      "height": 340,
+      "width": 678,
+      "screenshot": "section_12_chatBody.png"
+    },
+    {
+      "selector": "section#contact",
+      "id": "contact",
+      "heading": "Every business is different. So is every price.",
+      "top": 7948,
+      "height": 909,
+      "width": 1440
+    },
+    {
+      "selector": "form#leadForm",
+      "id": "leadForm",
+      "heading": "",
+      "top": 8077,
+      "height": 651,
+      "width": 489
+    },
+    {
+      "selector": "footer",
+      "id": null,
+      "heading": "",
+      "top": 8857,
+      "height": 415,
+      "width": 1440
+    }
+  ],
+  "navbar_behavior": {
+    "initial": {
+      "found": true,
+      "tagName": "nav",
+      "className": "",
+      "position": "sticky",
+      "top": "0px",
+      "background": "rgba(14, 17, 22, 0.82)",
+      "backdropFilter": "blur(14px)",
+      "boxShadow": "none",
+      "height": "71px",
+      "width": "1440px",
+      "transition": "all"
+    },
+    "scrolled": {
+      "found": true,
+      "tagName": "nav",
+      "className": "",
+      "position": "sticky",
+      "top": "0px",
+      "background": "rgba(14, 17, 22, 0.82)",
+      "backdropFilter": "blur(14px)",
+      "boxShadow": "none",
+      "height": "71px",
+      "width": "1440px",
+      "transition": "all"
+    },
+    "is_sticky": true,
+    "style_changes_on_scroll": {}
+  },
+  "button_interactions": [
+    {
+      "index": 0,
+      "text": "Get a quote",
+      "tag": "a",
+      "href": "#contact",
+      "rect": {
+        "top": 12.46875,
+        "left": 1130.78125,
+        "width": 125.21875,
+        "height": 45.046875
+      },
+      "initialStyles": {
+        "color": "rgb(4, 34, 43)",
+        "backgroundColor": "rgb(53, 208, 242)",
+        "transform": "none",
+        "boxShadow": "none",
+        "border": "0px none rgb(4, 34, 43)",
+        "transition": "box-shadow 0.2s"
+      },
+      "hoverStyles": {
+        "color": "rgb(238, 241, 245)",
+        "backgroundColor": "rgb(53, 208, 242)",
+        "transform": "none",
+        "boxShadow": "rgba(53, 208, 242, 0.35) 0px 0px 24px 0px",
+        "border": "0px none rgb(238, 241, 245)"
+      },
+      "diff": {
+        "color": {
+          "from": "rgb(4, 34, 43)",
+          "to": "rgb(238, 241, 245)"
+        },
+        "boxShadow": {
+          "from": "none",
+          "to": "rgba(53, 208, 242, 0.35) 0px 0px 24px 0px"
+        },
+        "border": {
+          "from": "0px none rgb(4, 34, 43)",
+          "to": "0px none rgb(238, 241, 245)"
+        }
+      }
+    },
+    {
+      "index": 3,
+      "text": "Start automating",
+      "tag": "a",
+      "href": "#contact",
+      "rect": {
+        "top": 508.5625,
+        "left": 184,
+        "width": 193.5,
+        "height": 57.59375
+      },
+      "initialStyles": {
+        "color": "rgb(4, 34, 43)",
+        "backgroundColor": "rgb(53, 208, 242)",
+        "transform": "none",
+        "boxShadow": "none",
+        "border": "0px none rgb(4, 34, 43)",
+        "transition": "box-shadow 0.2s, transform 0.2s"
+      },
+      "hoverStyles": {
+        "color": "rgb(4, 34, 43)",
+        "backgroundColor": "rgb(53, 208, 242)",
+        "transform": "matrix(1, 0, 0, 1, 0, -2)",
+        "boxShadow": "rgba(53, 208, 242, 0.35) 0px 0px 28px 0px",
+        "border": "0px none rgb(4, 34, 43)"
+      },
+      "diff": {
+        "transform": {
+          "from": "none",
+          "to": "matrix(1, 0, 0, 1, 0, -2)"
+        },
+        "boxShadow": {
+          "from": "none",
+          "to": "rgba(53, 208, 242, 0.35) 0px 0px 28px 0px"
+        }
+      }
+    },
+    {
+      "index": 4,
+      "text": "Talk to our AI →",
+      "tag": "a",
+      "href": "#demo",
+      "rect": {
+        "top": 508.5625,
+        "left": 391.5,
+        "width": 181.5,
+        "height": 57.59375
+      },
+      "initialStyles": {
+        "color": "rgb(199, 205, 214)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "transform": "none",
+        "boxShadow": "none",
+        "border": "1px solid rgba(199, 205, 214, 0.22)",
+        "transition": "border-color 0.2s"
+      },
+      "hoverStyles": {
+        "color": "rgb(199, 205, 214)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "transform": "none",
+        "boxShadow": "none",
+        "border": "1px solid rgb(53, 208, 242)"
+      },
+      "diff": {
+        "border": {
+          "from": "1px solid rgba(199, 205, 214, 0.22)",
+          "to": "1px solid rgb(53, 208, 242)"
+        }
+      }
+    },
+    {
+      "index": 5,
+      "text": "Tell me about your process",
+      "tag": "a",
+      "href": "#contact",
+      "rect": {
+        "top": 6476.03125,
+        "left": 641.59375,
+        "width": 268.515625,
+        "height": 51
+      },
+      "initialStyles": {
+        "color": "rgb(4, 34, 43)",
+        "backgroundColor": "rgb(53, 208, 242)",
+        "transform": "none",
+        "boxShadow": "none",
+        "border": "0px none rgb(4, 34, 43)",
+        "transition": "box-shadow 0.2s, transform 0.2s"
+      },
+      "hoverStyles": {
+        "color": "rgb(4, 34, 43)",
+        "backgroundColor": "rgb(53, 208, 242)",
+        "transform": "matrix(1, 0, 0, 1, 0, -2)",
+        "boxShadow": "rgba(53, 208, 242, 0.35) 0px 0px 28px 0px",
+        "border": "0px none rgb(4, 34, 43)"
+      },
+      "diff": {
+        "transform": {
+          "from": "none",
+          "to": "matrix(1, 0, 0, 1, 0, -2)"
+        },
+        "boxShadow": {
+          "from": "none",
+          "to": "rgba(53, 208, 242, 0.35) 0px 0px 28px 0px"
+        }
+      }
+    },
+    {
+      "index": 6,
+      "text": "Get it on Amazon",
+      "tag": "a",
+      "href": "https://www.amazon.com/dp/B0HLLK8QXV",
+      "rect": {
+        "top": 6806,
+        "left": 399,
+        "width": 190.921875,
+        "height": 57.59375
+      },
+      "initialStyles": {
+        "color": "rgb(4, 34, 43)",
+        "backgroundColor": "rgb(53, 208, 242)",
+        "transform": "none",
+        "boxShadow": "none",
+        "border": "0px none rgb(4, 34, 43)",
+        "transition": "box-shadow 0.2s, transform 0.2s"
+      },
+      "hoverStyles": {
+        "color": "rgb(4, 34, 43)",
+        "backgroundColor": "rgb(53, 208, 242)",
+        "transform": "matrix(1, 0, 0, 1, 0, -2)",
+        "boxShadow": "rgba(53, 208, 242, 0.35) 0px 0px 28px 0px",
+        "border": "0px none rgb(4, 34, 43)"
+      },
+      "diff": {
+        "transform": {
+          "from": "none",
+          "to": "matrix(1, 0, 0, 1, 0, -2)"
+        },
+        "boxShadow": {
+          "from": "none",
+          "to": "rgba(53, 208, 242, 0.35) 0px 0px 28px 0px"
+        }
+      }
+    },
+    {
+      "index": 7,
+      "text": "Author page",
+      "tag": "a",
+      "href": "https://www.amazon.com/author/alinakremenchutska",
+      "rect": {
+        "top": 6806,
+        "left": 601.921875,
+        "width": 158.078125,
+        "height": 57.59375
+      },
+      "initialStyles": {
+        "color": "rgb(199, 205, 214)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "transform": "none",
+        "boxShadow": "none",
+        "border": "1px solid rgba(199, 205, 214, 0.22)",
+        "transition": "border-color 0.2s"
+      },
+      "hoverStyles": {
+        "color": "rgb(199, 205, 214)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "transform": "none",
+        "boxShadow": "none",
+        "border": "1px solid rgb(53, 208, 242)"
+      },
+      "diff": {
+        "border": {
+          "from": "1px solid rgba(199, 205, 214, 0.22)",
+          "to": "1px solid rgb(53, 208, 242)"
+        }
+      }
+    }
+  ],
+  "card_interactions": [
+    {
+      "index": 0,
+      "initialStyles": {
+        "transform": "none",
+        "boxShadow": "none",
+        "borderColor": "rgba(199, 205, 214, 0.1)",
+        "backgroundColor": "rgb(22, 26, 33)",
+        "transition": "transform 0.25s, border-color 0.25s"
+      },
+      "hoverStyles": {
+        "transform": "matrix(1, 0, 0, 1, 0, -4)",
+        "boxShadow": "none",
+        "borderColor": "rgba(53, 208, 242, 0.4)",
+        "backgroundColor": "rgb(22, 26, 33)"
+      },
+      "diff": {
+        "transform": {
+          "from": "none",
+          "to": "matrix(1, 0, 0, 1, 0, -4)"
+        },
+        "borderColor": {
+          "from": "rgba(199, 205, 214, 0.1)",
+          "to": "rgba(53, 208, 242, 0.4)"
+        }
+      }
+    },
+    {
+      "index": 1,
+      "initialStyles": {
+        "transform": "none",
+        "boxShadow": "none",
+        "borderColor": "rgba(199, 205, 214, 0.1)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "transition": "all"
+      },
+      "hoverStyles": {
+        "transform": "none",
+        "boxShadow": "none",
+        "borderColor": "rgba(199, 205, 214, 0.1)",
+        "backgroundColor": "rgba(0, 0, 0, 0)"
+      },
+      "diff": {}
+    },
+    {
+      "index": 2,
+      "initialStyles": {
+        "transform": "none",
+        "boxShadow": "none",
+        "borderColor": "rgba(199, 205, 214, 0.1)",
+        "backgroundColor": "rgb(22, 26, 33)",
+        "transition": "transform 0.25s, border-color 0.25s"
+      },
+      "hoverStyles": {
+        "transform": "matrix(1, 0, 0, 1, 0, -4)",
+        "boxShadow": "none",
+        "borderColor": "rgba(53, 208, 242, 0.4)",
+        "backgroundColor": "rgb(22, 26, 33)"
+      },
+      "diff": {
+        "transform": {
+          "from": "none",
+          "to": "matrix(1, 0, 0, 1, 0, -4)"
+        },
+        "borderColor": {
+          "from": "rgba(199, 205, 214, 0.1)",
+          "to": "rgba(53, 208, 242, 0.4)"
+        }
+      }
+    },
+    {
+      "index": 3,
+      "initialStyles": {
+        "transform": "none",
+        "boxShadow": "none",
+        "borderColor": "rgba(199, 205, 214, 0.1)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "transition": "all"
+      },
+      "hoverStyles": {
+        "transform": "none",
+        "boxShadow": "none",
+        "borderColor": "rgba(199, 205, 214, 0.1)",
+        "backgroundColor": "rgba(0, 0, 0, 0)"
+      },
+      "diff": {}
+    },
+    {
+      "index": 4,
+      "initialStyles": {
+        "transform": "none",
+        "boxShadow": "none",
+        "borderColor": "rgba(199, 205, 214, 0.1)",
+        "backgroundColor": "rgb(22, 26, 33)",
+        "transition": "transform 0.25s, border-color 0.25s"
+      },
+      "hoverStyles": {
+        "transform": "matrix(1, 0, 0, 1, 0, -4)",
+        "boxShadow": "none",
+        "borderColor": "rgba(53, 208, 242, 0.4)",
+        "backgroundColor": "rgb(22, 26, 33)"
+      },
+      "diff": {
+        "transform": {
+          "from": "none",
+          "to": "matrix(1, 0, 0, 1, 0, -4)"
+        },
+        "borderColor": {
+          "from": "rgba(199, 205, 214, 0.1)",
+          "to": "rgba(53, 208, 242, 0.4)"
+        }
+      }
+    },
+    {
+      "index": 5,
+      "initialStyles": {
+        "transform": "none",
+        "boxShadow": "none",
+        "borderColor": "rgba(199, 205, 214, 0.1)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "transition": "all"
+      },
+      "hoverStyles": {
+        "transform": "none",
+        "boxShadow": "none",
+        "borderColor": "rgba(199, 205, 214, 0.1)",
+        "backgroundColor": "rgba(0, 0, 0, 0)"
+      },
+      "diff": {}
+    }
+  ],
+  "live_demo_interactions": {
+    "chatElementsFound": true,
+    "chatContainers": [
+      {
+        "tagName": "div",
+        "className": "robot-stage",
+        "textPreview": "ALI & AI"
+      },
+      {
+        "tagName": "div",
+        "className": "robot-ring",
+        "textPreview": ""
+      },
+      {
+        "tagName": "div",
+        "className": "robot-ring r2",
+        "textPreview": ""
+      },
+      {
+        "tagName": "div",
+        "className": "robot-orb",
+        "textPreview": "ALI & AI"
+      },
+      {
+        "tagName": "div",
+        "className": "robot-face",
+        "textPreview": ""
+      },
+      {
+        "tagName": "div",
+        "className": "robot-badge",
+        "textPreview": "ALI & AI"
+      },
+      {
+        "tagName": "div",
+        "className": "chat",
+        "textPreview": "A Ali & AI assistant Online now Hi! I'm the Ali & AI assista"
+      },
+      {
+        "tagName": "div",
+        "className": "chat-head",
+        "textPreview": "A Ali & AI assistant Online now"
+      },
+      {
+        "tagName": "div",
+        "className": "chat-av",
+        "textPreview": "A"
+      },
+      {
+        "tagName": "div",
+        "className": "chat-name",
+        "textPreview": "Ali & AI assistant"
+      },
+      {
+        "tagName": "div",
+        "className": "chat-status",
+        "textPreview": "Online now"
+      },
+      {
+        "tagName": "div",
+        "className": "chat-body",
+        "textPreview": "Hi! I'm the Ali & AI assistant. Ask me anything about our au"
+      },
+      {
+        "tagName": "div",
+        "className": "msg bot",
+        "textPreview": "Hi! I'm the Ali & AI assistant. Ask me anything about our au"
+      },
+      {
+        "tagName": "div",
+        "className": "chat-input",
+        "textPreview": "Send"
+      },
+      {
+        "tagName": "input",
+        "className": "",
+        "textPreview": ""
+      },
+      {
+        "tagName": "button",
+        "className": "",
+        "textPreview": "Send"
+      },
+      {
+        "tagName": "div",
+        "className": "wrap foot-bottom",
+        "textPreview": "© 2026 Ali & AI · ali-and-ai.com"
+      }
+    ],
+    "interactiveToggles": [],
+    "demoInputs": [
+      {
+        "type": "text",
+        "placeholder": "Ask about automation for your business...",
+        "name": ""
+      },
+      {
+        "type": "text",
+        "placeholder": "Jane Smith",
+        "name": "Name"
+      },
+      {
+        "type": "email",
+        "placeholder": "you@business.com",
+        "name": "Email"
+      },
+      {
+        "type": "text",
+        "placeholder": "Optional",
+        "name": "Phone"
+      },
+      {
+        "type": "text",
+        "placeholder": "Tell us about the task that's eating your time...",
+        "name": "What to automate"
+      }
+    ]
+  },
+  "contact_form": {
+    "found": true,
+    "formId": "contact",
+    "action": null,
+    "fieldsCount": 9,
+    "fields": [
+      {
+        "tagName": "input",
+        "type": "hidden",
+        "placeholder": "",
+        "required": false,
+        "name": "_subject",
+        "styles": {
+          "borderRadius": "0px",
+          "border": "0px none rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transition": "all"
+        }
+      },
+      {
+        "tagName": "input",
+        "type": "hidden",
+        "placeholder": "",
+        "required": false,
+        "name": "_captcha",
+        "styles": {
+          "borderRadius": "0px",
+          "border": "0px none rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transition": "all"
+        }
+      },
+      {
+        "tagName": "input",
+        "type": "hidden",
+        "placeholder": "",
+        "required": false,
+        "name": "_template",
+        "styles": {
+          "borderRadius": "0px",
+          "border": "0px none rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transition": "all"
+        }
+      },
+      {
+        "tagName": "input",
+        "type": "text",
+        "placeholder": "Jane Smith",
+        "required": true,
+        "name": "Name",
+        "styles": {
+          "borderRadius": "12px",
+          "border": "1px solid rgba(199, 205, 214, 0.1)",
+          "backgroundColor": "rgb(14, 17, 22)",
+          "transition": "border-color 0.2s"
+        }
+      },
+      {
+        "tagName": "input",
+        "type": "email",
+        "placeholder": "you@business.com",
+        "required": true,
+        "name": "Email",
+        "styles": {
+          "borderRadius": "12px",
+          "border": "1px solid rgba(199, 205, 214, 0.1)",
+          "backgroundColor": "rgb(14, 17, 22)",
+          "transition": "border-color 0.2s"
+        }
+      },
+      {
+        "tagName": "input",
+        "type": "text",
+        "placeholder": "Optional",
+        "required": false,
+        "name": "Phone",
+        "styles": {
+          "borderRadius": "12px",
+          "border": "1px solid rgba(199, 205, 214, 0.1)",
+          "backgroundColor": "rgb(14, 17, 22)",
+          "transition": "border-color 0.2s"
+        }
+      },
+      {
+        "tagName": "select",
+        "type": "text",
+        "placeholder": "",
+        "required": false,
+        "name": "Business type",
+        "styles": {
+          "borderRadius": "12px",
+          "border": "1px solid rgba(199, 205, 214, 0.1)",
+          "backgroundColor": "rgb(14, 17, 22)",
+          "transition": "border-color 0.2s"
+        }
+      },
+      {
+        "tagName": "textarea",
+        "type": "text",
+        "placeholder": "Tell us about the task that's eating your time...",
+        "required": true,
+        "name": "What to automate",
+        "styles": {
+          "borderRadius": "12px",
+          "border": "1px solid rgba(199, 205, 214, 0.1)",
+          "backgroundColor": "rgb(14, 17, 22)",
+          "transition": "border-color 0.2s"
+        }
+      },
+      {
+        "tagName": "button",
+        "type": "submit",
+        "placeholder": "",
+        "required": false,
+        "name": "",
+        "styles": {
+          "borderRadius": "100px",
+          "border": "0px none rgb(4, 34, 43)",
+          "backgroundColor": "rgb(53, 208, 242)",
+          "transition": "box-shadow 0.2s, transform 0.2s"
+        }
+      }
+    ]
+  },
+  "css_analysis": {
+    "animatedElements": [
+      {
+        "selector": "div.robot-ring",
+        "textPreview": "",
+        "animationName": "spin",
+        "duration": "18s",
+        "delay": "0s",
+        "iterationCount": "infinite",
+        "direction": "normal",
+        "timingFunction": "linear",
+        "fillMode": "none",
+        "playState": "running"
+      },
+      {
+        "selector": "div.robot-ring.r2",
+        "textPreview": "",
+        "animationName": "spin",
+        "duration": "26s",
+        "delay": "0s",
+        "iterationCount": "infinite",
+        "direction": "reverse",
+        "timingFunction": "linear",
+        "fillMode": "none",
+        "playState": "running"
+      },
+      {
+        "selector": "div.eye",
+        "textPreview": "",
+        "animationName": "blink",
+        "duration": "5s",
+        "delay": "0s",
+        "iterationCount": "infinite",
+        "direction": "normal",
+        "timingFunction": "ease",
+        "fillMode": "none",
+        "playState": "running"
+      },
+      {
+        "selector": "div.eye",
+        "textPreview": "",
+        "animationName": "blink",
+        "duration": "5s",
+        "delay": "0s",
+        "iterationCount": "infinite",
+        "direction": "normal",
+        "timingFunction": "ease",
+        "fillMode": "none",
+        "playState": "running"
+      },
+      {
+        "selector": "div.strip-track",
+        "textPreview": "Email sorting ◆ AI phone systems ◆ Chatb",
+        "animationName": "scroll",
+        "duration": "24s",
+        "delay": "0s",
+        "iterationCount": "infinite",
+        "direction": "normal",
+        "timingFunction": "linear",
+        "fillMode": "none",
+        "playState": "running"
+      }
+    ],
+    "transitionElements": [
+      {
+        "selector": "a.nav-cta",
+        "transitionProperty": "box-shadow",
+        "duration": "0.2s",
+        "delay": "0s",
+        "timingFunction": "ease"
+      },
+      {
+        "selector": "span",
+        "transitionProperty": "all",
+        "duration": "0.3s",
+        "delay": "0s",
+        "timingFunction": "ease"
+      },
+      {
+        "selector": "a.btn-primary",
+        "transitionProperty": "box-shadow, transform",
+        "duration": "0.2s, 0.2s",
+        "delay": "0s, 0s",
+        "timingFunction": "ease, ease"
+      },
+      {
+        "selector": "a.btn-ghost",
+        "transitionProperty": "border-color",
+        "duration": "0.2s",
+        "delay": "0s",
+        "timingFunction": "ease"
+      },
+      {
+        "selector": "div.robot-orb",
+        "transitionProperty": "transform",
+        "duration": "0.2s",
+        "delay": "0s",
+        "timingFunction": "ease-out"
+      },
+      {
+        "selector": "div#eyes.eyes",
+        "transitionProperty": "transform",
+        "duration": "0.15s",
+        "delay": "0s",
+        "timingFunction": "ease-out"
+      },
+      {
+        "selector": "div.card",
+        "transitionProperty": "transform, border-color",
+        "duration": "0.25s, 0.25s",
+        "delay": "0s, 0s",
+        "timingFunction": "ease, ease"
+      },
+      {
+        "selector": "div.lab-card",
+        "transitionProperty": "border-color",
+        "duration": "0.25s",
+        "delay": "0s",
+        "timingFunction": "ease"
+      },
+      {
+        "selector": "button#chatSend",
+        "transitionProperty": "box-shadow",
+        "duration": "0.2s",
+        "delay": "0s",
+        "timingFunction": "ease"
+      },
+      {
+        "selector": "a",
+        "transitionProperty": "border-color",
+        "duration": "0.2s",
+        "delay": "0s",
+        "timingFunction": "ease"
+      },
+      {
+        "selector": "input",
+        "transitionProperty": "border-color",
+        "duration": "0.2s",
+        "delay": "0s",
+        "timingFunction": "ease"
+      },
+      {
+        "selector": "select",
+        "transitionProperty": "border-color",
+        "duration": "0.2s",
+        "delay": "0s",
+        "timingFunction": "ease"
+      },
+      {
+        "selector": "textarea",
+        "transitionProperty": "border-color",
+        "duration": "0.2s",
+        "delay": "0s",
+        "timingFunction": "ease"
+      },
+      {
+        "selector": "button.btn-primary",
+        "transitionProperty": "box-shadow, transform",
+        "duration": "0.2s, 0.2s",
+        "delay": "0s, 0s",
+        "timingFunction": "ease, ease"
+      }
+    ],
+    "keyframes": [
+      {
+        "name": "spin",
+        "cssText": "@keyframes spin { \n  100% { transform: rotate(360deg); }\n}",
+        "keyframeStops": [
+          {
+            "keyText": "100%",
+            "cssText": "transform: rotate(360deg);"
+          }
+        ]
+      },
+      {
+        "name": "blink",
+        "cssText": "@keyframes blink { \n  0%, 92%, 100% { transform: scaleY(1); }\n  96% { transform: scaleY(0.1); }\n}",
+        "keyframeStops": [
+          {
+            "keyText": "0%, 92%, 100%",
+            "cssText": "transform: scaleY(1);"
+          },
+          {
+            "keyText": "96%",
+            "cssText": "transform: scaleY(0.1);"
+          }
+        ]
+      },
+      {
+        "name": "scroll",
+        "cssText": "@keyframes scroll { \n  100% { transform: translateX(-50%); }\n}",
+        "keyframeStops": [
+          {
+            "keyText": "100%",
+            "cssText": "transform: translateX(-50%);"
+          }
+        ]
+      }
+    ],
+    "corsBlockedSheets": 1
+  },
+  "js_analysis": {
+    "webAnimations": [
+      {
+        "id": null,
+        "playState": "running",
+        "currentTime": 16.677999935858168,
+        "playbackRate": 1,
+        "target": "div.card",
+        "timing": {
+          "delay": 0,
+          "duration": 250,
+          "fill": "backwards",
+          "iterations": 1,
+          "easing": "ease",
+          "direction": "normal",
+          "progress": 0.05025040649436754
+        },
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "composite": "auto",
+            "borderBottomColor": "rgba(53, 208, 242, 0.4)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "composite": "auto",
+            "borderBottomColor": "rgba(199, 205, 214, 0.1)",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "id": null,
+        "playState": "running",
+        "currentTime": 16.677999935858168,
+        "playbackRate": 1,
+        "target": "div.card",
+        "timing": {
+          "delay": 0,
+          "duration": 250,
+          "fill": "backwards",
+          "iterations": 1,
+          "easing": "ease",
+          "direction": "normal",
+          "progress": 0.05025040649436754
+        },
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "composite": "auto",
+            "borderLeftColor": "rgba(53, 208, 242, 0.4)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "composite": "auto",
+            "borderLeftColor": "rgba(199, 205, 214, 0.1)",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "id": null,
+        "playState": "running",
+        "currentTime": 16.677999935858168,
+        "playbackRate": 1,
+        "target": "div.card",
+        "timing": {
+          "delay": 0,
+          "duration": 250,
+          "fill": "backwards",
+          "iterations": 1,
+          "easing": "ease",
+          "direction": "normal",
+          "progress": 0.05025040649436754
+        },
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "composite": "auto",
+            "borderRightColor": "rgba(53, 208, 242, 0.4)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "composite": "auto",
+            "borderRightColor": "rgba(199, 205, 214, 0.1)",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "id": null,
+        "playState": "running",
+        "currentTime": 16.677999935858168,
+        "playbackRate": 1,
+        "target": "div.card",
+        "timing": {
+          "delay": 0,
+          "duration": 250,
+          "fill": "backwards",
+          "iterations": 1,
+          "easing": "ease",
+          "direction": "normal",
+          "progress": 0.05025040649436754
+        },
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "composite": "auto",
+            "borderTopColor": "rgba(53, 208, 242, 0.4)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "composite": "auto",
+            "borderTopColor": "rgba(199, 205, 214, 0.1)",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "id": null,
+        "playState": "running",
+        "currentTime": 16.677999935858168,
+        "playbackRate": 1,
+        "target": "div.card",
+        "timing": {
+          "delay": 0,
+          "duration": 250,
+          "fill": "backwards",
+          "iterations": 1,
+          "easing": "ease",
+          "direction": "normal",
+          "progress": 0.05025040649436754
+        },
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "translateY(-4px)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "none",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "id": null,
+        "playState": "running",
+        "currentTime": 44881.549999999625,
+        "playbackRate": 1,
+        "target": "div.robot-ring",
+        "timing": {
+          "delay": 0,
+          "duration": 18000,
+          "fill": "none",
+          "iterations": Infinity,
+          "easing": "linear",
+          "direction": "normal",
+          "progress": 0.49341944444442376
+        },
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "composite": "replace",
+            "transform": "none",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "rotate(360deg)",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "id": null,
+        "playState": "running",
+        "currentTime": 44881.549999999625,
+        "playbackRate": 1,
+        "target": "div.robot-ring.r2",
+        "timing": {
+          "delay": 0,
+          "duration": 26000,
+          "fill": "none",
+          "iterations": Infinity,
+          "easing": "linear",
+          "direction": "reverse",
+          "progress": 0.27378653846155276
+        },
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "composite": "replace",
+            "transform": "none",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "rotate(360deg)",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "id": null,
+        "playState": "running",
+        "currentTime": 44881.549999999625,
+        "playbackRate": 1,
+        "target": "div.eye",
+        "timing": {
+          "delay": 0,
+          "duration": 5000,
+          "fill": "none",
+          "iterations": Infinity,
+          "easing": "linear",
+          "direction": "normal",
+          "progress": 0.9763099999999252
+        },
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "ease",
+            "composite": "auto",
+            "transform": "scaleY(1)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 0.92,
+            "easing": "ease",
+            "composite": "auto",
+            "transform": "scaleY(1)",
+            "computedOffset": 0.92
+          },
+          {
+            "offset": 0.96,
+            "easing": "ease",
+            "composite": "auto",
+            "transform": "scaleY(0.1)",
+            "computedOffset": 0.96
+          },
+          {
+            "offset": 1,
+            "easing": "ease",
+            "composite": "auto",
+            "transform": "scaleY(1)",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "id": null,
+        "playState": "running",
+        "currentTime": 44881.549999999625,
+        "playbackRate": 1,
+        "target": "div.eye",
+        "timing": {
+          "delay": 0,
+          "duration": 5000,
+          "fill": "none",
+          "iterations": Infinity,
+          "easing": "linear",
+          "direction": "normal",
+          "progress": 0.9763099999999252
+        },
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "ease",
+            "composite": "auto",
+            "transform": "scaleY(1)",
+            "computedOffset": 0
+          },
+          {
+            "offset": 0.92,
+            "easing": "ease",
+            "composite": "auto",
+            "transform": "scaleY(1)",
+            "computedOffset": 0.92
+          },
+          {
+            "offset": 0.96,
+            "easing": "ease",
+            "composite": "auto",
+            "transform": "scaleY(0.1)",
+            "computedOffset": 0.96
+          },
+          {
+            "offset": 1,
+            "easing": "ease",
+            "composite": "auto",
+            "transform": "scaleY(1)",
+            "computedOffset": 1
+          }
+        ]
+      },
+      {
+        "id": null,
+        "playState": "running",
+        "currentTime": 44881.549999999625,
+        "playbackRate": 1,
+        "target": "div.strip-track",
+        "timing": {
+          "delay": 0,
+          "duration": 24000,
+          "fill": "none",
+          "iterations": Infinity,
+          "easing": "linear",
+          "direction": "normal",
+          "progress": 0.8700645833333178
+        },
+        "keyframes": [
+          {
+            "offset": 0,
+            "easing": "linear",
+            "composite": "replace",
+            "transform": "none",
+            "computedOffset": 0
+          },
+          {
+            "offset": 1,
+            "easing": "linear",
+            "composite": "auto",
+            "transform": "translateX(-50%)",
+            "computedOffset": 1
+          }
+        ]
+      }
+    ],
+    "librariesDetected": {
+      "gsap": {
+        "detected": false,
+        "evidence": null,
+        "scrollTrigger": false
+      },
+      "framerMotion": {
+        "detected": false,
+        "evidence": null
+      },
+      "lottie": {
+        "detected": false,
+        "evidence": null
+      },
+      "threeJs": {
+        "detected": false,
+        "evidence": null
+      },
+      "animeJs": {
+        "detected": false,
+        "evidence": null
+      },
+      "lenis": {
+        "detected": false,
+        "evidence": null
+      },
+      "locomotiveScroll": {
+        "detected": false,
+        "evidence": null
+      },
+      "aos": {
+        "detected": false,
+        "evidence": null
+      }
+    },
+    "visualEngines": {
+      "canvasCount": 1,
+      "webglCanvases": 0,
+      "svgCount": 0,
+      "svgAnimatedCount": 0,
+      "videoCount": 0,
+      "lottiePlayers": 0
+    },
+    "scriptSources": []
+  },
+  "responsive_mobile": {
+    "tested_viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "has_mobile_menu_trigger": true,
+    "menu_opened_successfully": true
+  },
+  "video_recording_path": "captures\\recordings\\page@1f1bba6f1f9cbbd8c244d64e3b557387.webm",
+  "scroll_observations": {
+    "total_scroll_height": 9271,
+    "viewport_height": 900,
+    "steps_taken": 38
+  }
+}
